@@ -173,17 +173,17 @@ button:disabled {
     font-family: sans-serif;
     font-size: 24px;
     background: #6b47b8;
-    padding: 24px 24px 24px 50px;   
+    padding: 24px 24px 24px 40px;   
 }
 
 .list-title {
     font-weight: 500;
     font-size: 18px;
     margin-bottom: 4px;
-    padding: 8px 24px 0px 24px;
+    padding: 8px 24px 0px 20px;
 }
 
 .users {
     font-weight: 300;
-    padding: 7px 24px 2px 40px;
+    padding: 7px 24px 2px 30px;
 }
